@@ -1,3 +1,3 @@
 # landing-page
-Landing page designed for The Odin Project. /n
-March 2024
+<p>Landing page designed for The Odin Project.</p>
+<p>March 2024</p>
